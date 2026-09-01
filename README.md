@@ -27,21 +27,21 @@ Kalau dosen memperbaiki sesuatu di pertemuan yang sudah dirilis (mis. ada bug di
 Bagian di bawah ini **isi bertahap** sesuai level yang sedang kalian kerjakan (lihat `pertemuan-01/SOAL.md`) — heading-nya dicek otomatis, jangan diganti namanya.
 
 ## Identitas
-- Nama: (tulis di sini)
-- NRP: (tulis di sini)
-- Kelas: (tulis di sini)
+- Nama: Alhaura Rahmatunnisa Harsanto
+- NRP: 5053241016
+- Kelas: Backend RPL (M)
 
 ## Commit vs Push
-(tulis di sini)
+Commit adalah proses menyimpan perubahan yang telah dibuat ke repository lokal Git. Sedangkan push adalah mengirim commit dari repository lokal ke repository remote, seperti GitHub.
 
 ## Reproducibility
-(tulis di sini)
+Reproducibility dalam perangkat lunak adalah kondisi dimana project dapat dijalankan atau dikembangkan kembali dengan hasil dan lingkungan yang konsisten sehingga anggota tim lain dapat menjalankan project yang sama tanpa mengalami perbedaan konfigurasi. Git sangat membantu reproducibility karena riwayat perubahan kode disimpan dan dapat diakses melalui repository.
 
 ## Catatan Merge Conflict
-(tulis di sini)
+Merge conflict dapat terjadi saat Git menemukan perubahan yang bertabrakan, contohnya dua orang mengubah bagian yang sama dalam sebuah file. Merge conflict harus diselesaikan secara manual dengan memilih atau menggabung perubahan yang sesuai. Untuk menghindari ini, anggota tim perlu sering melakukan pull.
 
 ## Kenapa .gitignore Penting
-(tulis di sini)
+file .gitignore digunakan untuk menentukan file mana yang tidak perlu dimasukkan ke dalam repository Git. Contohnya file dependency, temporary, dan data sensitif seperti password atau API key. Repository akan menjadi lebih aman dan hanya berisi file yang diperlukan.
 
 ## Refleksi
-(tulis di sini)
+Saya semangat dalam menjalankan mata kuliah ini karena banyak sekali ilmu yang belum saya miliki. Semoga dengan komitmen ini saya bisa selalu konsisten di setiap pertemuannya.
