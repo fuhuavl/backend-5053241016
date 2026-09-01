@@ -32,7 +32,7 @@ Bagian di bawah ini **isi bertahap** sesuai level yang sedang kalian kerjakan (l
 - Kelas: Backend RPL (M)
 
 ## Commit vs Push
-Commit adalah proses menyimpan perubahan yang telah dibuat ke repository lokal Git. Sedangkan push adalah mengirim commit dari repository lokal ke repository remote, seperti GitHub. Perbedaan ini perlu dipahami dengan baik supaya tidak ada miskonsepsi.
+Commit adalah proses menyimpan perubahan yang telah dibuat ke repository lokal Git. Sedangkan push adalah mengirim commit dari repository lokal ke repository remote, seperti GitHub. Perbedaan ini perlu dipahami dengan baik supaya tidak ada miskonsepsi dan kesalahan.
 
 ## Reproducibility
 Reproducibility dalam perangkat lunak adalah kondisi dimana project dapat dijalankan atau dikembangkan kembali dengan hasil dan lingkungan yang konsisten sehingga anggota tim lain dapat menjalankan project yang sama tanpa mengalami perbedaan konfigurasi. Git sangat membantu reproducibility karena riwayat perubahan kode disimpan dan dapat diakses melalui repository.
