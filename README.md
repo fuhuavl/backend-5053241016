@@ -35,7 +35,7 @@ Bagian di bawah ini **isi bertahap** sesuai level yang sedang kalian kerjakan (l
 Commit adalah proses menyimpan perubahan yang telah dibuat ke repository lokal Git. Sedangkan push adalah mengirim commit dari repository lokal ke repository remote, seperti GitHub. Perbedaan ini perlu dipahami dengan baik supaya tidak ada miskonsepsi dan kesalahan.
 
 ## Reproducibility
-Reproducibility dalam perangkat lunak adalah kondisi dimana project dapat dijalankan atau dikembangkan kembali dengan hasil dan lingkungan yang konsisten sehingga anggota tim lain dapat menjalankan project yang sama tanpa mengalami perbedaan konfigurasi. Git sangat membantu reproducibility karena riwayat perubahan kode disimpan dan dapat diakses melalui repository.
+Reproducibility dalam perangkat lunak adalah kondisi dimana project dapat dijalankan atau dikembangkan kembali dengan hasil dan lingkungan yang konsisten sehingga anggota tim lain dapat menjalankan project yang sama tanpa mengalami perbedaan konfigurasi. Git sangat membantu reproducibility karena riwayat perubahan kode disimpan dan dapat diakses melalui repository. Namun, perbedaan versi mungkin tidak menjadi masalah apabila kode dan dependency yang digunakan masih kompatibel dengan versi Go yang digunakan oleh seluruh anggota tim.
 
 ## Catatan Merge Conflict
 Merge conflict dapat terjadi saat Git menemukan perubahan yang bertabrakan, contohnya dua orang mengubah bagian yang sama dalam sebuah file. Merge conflict harus diselesaikan secara manual dengan memilih atau menggabung perubahan yang sesuai. Untuk menghindari ini, anggota tim perlu sering melakukan pull.
